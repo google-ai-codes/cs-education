@@ -1,7 +1,5 @@
 <div align="center">
-	<img width="700" height="400" src="share.png" alt="Google AI github">
-	<br>
-	<p>
+	<img width="650" height="400" src="share.png" alt="Google AI github">
 		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">Supported by Google</a>
@@ -9,8 +7,6 @@
 		</p>
 		<br>
 		<br>
-	</p>
-	<br>
 	<br>
 </div>
 
@@ -18,13 +14,13 @@
 ## Contents
 
 - [*Internships Sheet*](#internships)
-- [*cs-jobs Sheet](#cs-jobs-sheet)
+- [*CS jobs Sheet*](#cs-jobs-sheet)
 - [*Online Courses*](#online-courses)
 - [*Research Papers*](#front-end-development)
 - [*Free Udacity/Udemy/Lynda Education Accounts*](#back-end-development)
 - [*Hackathons*](#computer-science)
 - [*Google Experiments*](#computer-science)
-- [*Youtube Education Channels*](#computer-science)
+- [*Youtube Education Channels*](#Youtube Channels To Watch)
 - [*Books*](#books)
 - [*#100daysofCode*](#100DaysofCode)
 - [*CheatSheets*](#cheatsheets)
@@ -58,5 +54,18 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
-## Platforms
+## Youtube Channels To Watch
+
+- [DevYoutubeList](https://github.com/ErikCH/DevYouTubeList)
+- [Andrew-r-FrontEnd](https://github.com/andrew--r/channels)
+- [Data Science & Coding](https://github.com/kunalmanik/Awesome-Youtube-Channels)
+- [Algorithms & Problem Solving](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+
+
+## Internships
+- [Git 1](https://github.com/Zackhardtoname/internships)
+- [Git 2](https://github.com/gcreddy42/hiring2020)
+- [Git 3](https://github.com/elaine-zheng/summer2020internships)
+- [Git 4](https://github.com/himahuja/Research-Internships-for-Undergraduates)
+
 
