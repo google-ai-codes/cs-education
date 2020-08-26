@@ -14,7 +14,7 @@
 ## Contents
 
 - [*Internships Sheet*](#internships)
-- [*CS jobs Sheet*](#cs-jobs-sheet)
+- [*CS jobs*](#csjobs)
 - [*Online Courses*](#online-courses)
 - [*Research Papers*](#front-end-development)
 - [*Free Udacity/Udemy/Lynda Education Accounts*](#back-end-development)
@@ -61,11 +61,27 @@
 - [Data Science & Coding](https://github.com/kunalmanik/Awesome-Youtube-Channels)
 - [Algorithms & Problem Solving](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 
-
 ## Internships
 - [Git 1](https://github.com/Zackhardtoname/internships)
 - [Git 2](https://github.com/gcreddy42/hiring2020)
 - [Git 3](https://github.com/elaine-zheng/summer2020internships)
 - [Git 4](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
+## CSJOBS
+ - [AI India Jobs](https://t.me/AiIndiaJobs)
+ - [MLI India Jobs](https://t.me/mljobsindia)
+ 
+## Telegram
+ - [The Art Of Programming](https://t.me/theprogrammingartgroup)
+ - [Arxiv research Papers](https://t.me/ai_python_arxiv)
+ - [Machine Learning](https://t.me/machinelearningg)
+ - [Flutter India](https://t.me/Flutterindia)
+ - [Matlab](https://t.me/matlabirawen)
+ - [Android Developers](https://t.me/keralaandroiddeveloper)
+ - [Tensorflow User Group](https://t.me/tfugmumbai)
+ - [Research articles, papers](https://t.me/ArtificialIntelligenceArticles)
+ 
+ 
+
+ 
 
