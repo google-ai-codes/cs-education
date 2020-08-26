@@ -20,7 +20,7 @@
 - [*Free Udacity/Udemy/Lynda Education Accounts*](#back-end-development)
 - [*Hackathons*](#computer-science)
 - [*Google Experiments*](#computer-science)
-- [*Youtube Education Channels*](#Youtube Channels To Watch)
+- [*Youtube Education Channels*](#youtube)
 - [*Books*](#books)
 - [*#100daysofCode*](#100DaysofCode)
 - [*CheatSheets*](#cheatsheets)
@@ -54,7 +54,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
-## Youtube Channels To Watch
+## Youtube
 
 - [DevYoutubeList](https://github.com/ErikCH/DevYouTubeList)
 - [Andrew-r-FrontEnd](https://github.com/andrew--r/channels)
