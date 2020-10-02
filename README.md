@@ -77,6 +77,8 @@
 ## CSJOBS
  - [AI India Jobs](https://t.me/AiIndiaJobs)
  - [MLI India Jobs](https://t.me/mljobsindia)
+ - [Angel](https://angel.co/jobs)
+ - [Jobhunt.io](https://jobhunt.ai/)
  
 ## Telegram
  - [The Art Of Programming](https://t.me/theprogrammingartgroup)
