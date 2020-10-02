@@ -9,6 +9,11 @@
 		<br>
 	<br>
 </div>
+<p align="center">
+ <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square"></a>
+  <a href="#issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+</p>
 
 
 ## Contents
