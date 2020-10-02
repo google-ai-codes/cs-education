@@ -77,6 +77,7 @@
 ## CSJOBS
  - [AI India Jobs](https://t.me/AiIndiaJobs)
  - [MLI India Jobs](https://t.me/mljobsindia)
+ - [Engg Safar - IT Jobs OffCampus Drive](https://t.me/enggsafar)
  
 ## Telegram
  - [The Art Of Programming](https://t.me/theprogrammingartgroup)
