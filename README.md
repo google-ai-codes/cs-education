@@ -60,6 +60,8 @@
 - [Andrew-r-FrontEnd](https://github.com/andrew--r/channels)
 - [Data Science & Coding](https://github.com/kunalmanik/Awesome-Youtube-Channels)
 - [Algorithms & Problem Solving](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+- [JavaScript for begginers in pt-br](https://www.youtube.com/watch?v=ipHuSfOYhwA&list=PLInBAd9OZCzxl38aAYdyoMHVg0xCgxrRx)
+
 
 ## Internships
 - [Git 1](https://github.com/Zackhardtoname/internships)
